@@ -24,16 +24,24 @@ Read phone numbers from one or multiple input files:
 
 Provide phone number through STDIN:
 Case1 :For input Files: In Windows Navigate to say aconex-1800-challenge\target directory
+
 And type :
+
 java -jar eighteenhundred-1.0.0.jar -d dictionary.challenge.txt input.challenge.txt
 
 
 Case2:For no input files navigate type
+
 java -jar eighteenhundred-1.0.0.jar -d dictionary.challenge.txt
+
 The Instructions indicate to Kindly enter the Phone Number 
+
 Now enter the Phone Number say
+
 2255.63 
+
 In case you want to terminate the output 
+
 press CtrZ and Enter 
 
 The optional `-d` switch provides a custom dictionary of possible words to use.
